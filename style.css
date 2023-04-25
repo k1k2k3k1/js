@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  
+}
+
+label {
+  margin-right: 10px;
+}
+
+#submit-button {
+  margin-left: 10px;
+  background-color: blue;
+  color: white;
+}
+
+#output-container {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 20px;
+}
+body{
+ background: #e8e3e3;
+  box-sizing: border-box;
+}
